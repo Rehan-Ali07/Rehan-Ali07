@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rehan-Ali07
-- 👀 I’m interested in Software Quality Assurance Jobs
-- 🌱 I’m currently working as QA Engineer
-- 💞️ I’m looking for the new peojects.
+- 👀 I’m interested in 
+- 🌱 I’m currently working
+- 💞️ I’m looking for the 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
